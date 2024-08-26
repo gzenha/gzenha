@@ -1,4 +1,4 @@
-## Olá Pessoal, me chamo Gisele Gonçalves 👋 Hi Guys, My name Gisele Gonçalves 👋
+## Olá Pessoal, me chamo Gisele Gonçalves 👋 Hi Guys, My name is Gisele Gonçalves 👋
 
 <!--
 **gzenha/gzenha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
